@@ -1,7 +1,9 @@
+
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Cybersecurity Banner" width="60%" />
 </p>
-
+-->
 <h1 align="center">👾 Youssef Emira</h1>
 <h3 align="center"><code>Cybersecurity Engineer | Aspiring Red Teamer | Offensive Security Explorer</code></h3>
 
