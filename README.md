@@ -1,15 +1,49 @@
-<h1 align="center">Hello there I'm Youssef Emira</h1>
-<h3 align="center">A passionate cyber security engineer from Egypt</h3>
-
-- 🌱 I’m currently learning **active directory and mobile pentesting**
-
-- 📝 I regularly write articles on [https://medium.com/@youssefemira1](https://medium.com/@youssefemira1)
-
-- 📄 Know about my experiences [[resume](https://github.com/joeemira/joeemira/blob/main/Youssef%20Mohamed%20Mahmoud%20Zaki%20Emira.pdf)]
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/youssef-emira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-emira" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Cybersecurity Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">👾 Youssef Emira</h1>
+<h3 align="center"><code>Cybersecurity Engineer | Aspiring Red Teamer | Offensive Security Explorer</code></h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0FF8FC&center=true&vCenter=true&width=450&lines=Securing+Tomorrow+by+Hacking+Today;Always+Learning.+Always+Testing.;Red+Teaming+in+Progress..." alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 Current Focus
+AD attacks & Android app security
+API development with Python
+Integrating ML into security tools
+---
+
+### 📡 What I'm Building Toward
+- 🕶️ **Red Team Operator** – mastering adversary emulation
+- 📲 Leading in **mobile application security**
+- 🛠️ Contributing to **open-source security tools**
+
+---
+
+### ✍️ Articles & Resources
+- I write on [**Medium**](https://medium.com/@youssefemira1) — CTFs, labs, and deep dives
+
+---
+
+### 📄 Resume
+- [📎 Download My Resume (PDF)](https://github.com/joeemira/joeemira/blob/main/Youssef%20Mohamed%20Mahmoud%20Zaki%20Emira.pdf)
+
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/youssef-emira" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Tools & Tech
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,mysql,php,cpp,androidstudio,js" />
+</p>
