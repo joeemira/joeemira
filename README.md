@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Cybersecurity Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Cybersecurity Banner" width="60%" />
 </p>
 
 <h1 align="center">👾 Youssef Emira</h1>
