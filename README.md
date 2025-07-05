@@ -5,7 +5,7 @@
 </p>
 -->
 <h1 align="center">👾 Youssef Emira</h1>
-<h3 align="center"><code>Cybersecurity Engineer | Aspiring Red Teamer | Offensive Security Explorer</code></h3>
+<h3 align="center"><code>Computer Engineer | Penetration Tester Explorer</code></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0FF8FC&center=true&vCenter=true&width=450&lines=Securing+Tomorrow+by+Hacking+Today;Always+Learning.+Always+Testing.;Red+Teaming+in+Progress..." alt="Typing SVG" />
