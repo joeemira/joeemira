@@ -19,13 +19,6 @@ API development with Python
 Integrating ML into security tools
 ---
 
-### 📡 What I'm Building Toward
-- 🕶️ **Red Team Operator** – mastering adversary emulation
-- 📲 Leading in **mobile application security**
-- 🛠️ Contributing to **open-source security tools**
-
----
-
 ### ✍️ Articles & Resources
 - I write on [**Medium**](https://medium.com/@youssefemira1) — CTFs, labs, and deep dives
 
